@@ -1,1 +1,1 @@
-Escrevendo algo para testar no read kkk
+Este Repositório demonstra minha evolução com os exercícios de python. 
